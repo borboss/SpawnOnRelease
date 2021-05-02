@@ -5,7 +5,7 @@
 *.gitignore
 *.gitattributes
 gradlew.properties
-gradlew
+gradlew/
 *.iml
 *.ipr
 *.iws
