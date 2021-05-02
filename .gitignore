@@ -1,7 +1,11 @@
 # User-specific stuff
 ../.idea/
 ./idea
-
+./gradle
+*.gitignore
+*.gitattributes
+gradlew.properties
+gradlew
 *.iml
 *.ipr
 *.iws
