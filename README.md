@@ -7,3 +7,4 @@ Works on Pixelmon REFORGED 8.1.2, have not tested any other versions.
 
 
 Drag & Drop to mods folder - Not tested on a server with more than 2-3 players on it at a time.
+*you'll have to compile it, sorry
